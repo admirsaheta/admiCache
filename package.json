@@ -1,5 +1,5 @@
 {
-  "name": "admicache",
+  "name": "@praella/admicache",
   "version": "1.0.0",
   "author": "Admir Saheta <admir@praella.com>",
   "description": "Simple in-memory key-value cache with zero dependencies",
